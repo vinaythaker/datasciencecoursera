@@ -111,7 +111,7 @@ Codebook
 
 62. **fBodyAccJerkMagMean**   
 63. **fBodyAccJerkMagStd**  
-  
+    
         Mean and standard deviation values from the accelerometer of the magnitude of the body acceleration jerk signal post applications of fast fourier transforms.  
 
 64. **fBodyGyroMagMean**  
